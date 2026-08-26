@@ -11,7 +11,7 @@ inicio
    escreva("Informe o expoente: ")
    leia(n2)
 
-   ex <- exp(n1, n2)
+   ex <- n1 ^ n2
 
    escreval("A exponenciação de ", n1, " elevado a ", n2, " é ", ex)
 
