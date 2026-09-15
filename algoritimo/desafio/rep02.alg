@@ -25,10 +25,11 @@ inicio
     fimse
 
     escreval ("------------")
-    escreval("o melhor aluno foi ",melhoraluno,"com a nota ",maior)
+    
     n1<-n1+1
 
     fimenquanto
+    escreval("o melhor aluno foi ",melhoraluno," com a nota ",maior)
 
     
 
