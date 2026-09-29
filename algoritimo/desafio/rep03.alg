@@ -10,10 +10,10 @@ repita
    escolha (n)
    
    caso 1
-   contador<-contador +1
    repita
-    escreva(contador,"... ")
-    ate(contador>10)
+      contador<-contador +1
+      escreva(contador,"... ")
+      ate(contador>10)
    
    caso 2
    contador<-10
