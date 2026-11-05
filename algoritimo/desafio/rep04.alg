@@ -19,8 +19,7 @@ inicio
   se (se(genero=M) ou (genero=m)) e (idade>18) e (cabelo=2)
   thomem<-thomem +1
   fimse
-  se ((genero=m) ou (genero=M)) e (idade>=25) e (idade<=30) e (cabelo=3)
-  tmulher<-tmulher+1
+     tmulher<-tmulher+1
   fimse
   escreva("quer continuar [S/N]")
   leia(resp)
