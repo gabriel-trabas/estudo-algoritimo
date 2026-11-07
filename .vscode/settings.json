@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.alg": "visualg"
+    },
+    "code-runner.executorMap": {
+        "visualg": "C:/Users/faria/Documents/Codex/tools/visualg/node/node.exe \"C:/Users/faria/Documents/Codex/tools/visualg/executar.cjs\" --dialeto visualg"
+    },
+    "code-runner.executorMapByFileExtension": {
+        ".alg": "C:/Users/faria/Documents/Codex/tools/visualg/node/node.exe \"C:/Users/faria/Documents/Codex/tools/visualg/executar.cjs\" --dialeto visualg"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.ignoreSelection": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.showRunIconInEditorTitleMenu": true,
+    "code-runner.preserveFocus": false
+}

@@ -1,0 +1,30 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Executar VisuAlg",
+            "type": "process",
+            "command": "C:/Users/faria/Documents/Codex/tools/visualg/node/node.exe",
+            "args": [
+                "C:/Users/faria/Documents/Codex/tools/visualg/executar.cjs",
+                "--dialeto",
+                "visualg",
+                "${file}"
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "focus": true,
+                "panel": "dedicated",
+                "clear": true
+            },
+            "problemMatcher": []
+        }
+    ]
+}
