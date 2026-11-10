@@ -18,7 +18,7 @@ inicio
   escreva(t1)
   t2<-1
    escreva(t2)
-  para calc de 1 ate 10 faca 
+   para calc de 1 ate 10 faca 
   fibo(t1,t2)
  fimpara 
 fimalgoritmo
